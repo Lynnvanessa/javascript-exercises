@@ -219,6 +219,8 @@ const someVariable = undefined;
             ////////////////////////////////////////////////////////////////////
             // See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from
             // ✏️ ADD CODE HERE ✏️
+            const secondArray = firstArray.slice();
+
 
             ////////////////////////////////////////////////////////////////////
 
