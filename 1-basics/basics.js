@@ -261,6 +261,10 @@ const someVariable = undefined;
             // By observing their casting behavior in the tests below, you can find
             // out the required types.
             // ✏️ ADD CODE HERE ✏️
+            const firstVariable = 3;
+            const secondVariable = "1";
+
+
 
             ////////////////////////////////////////////////////////////////////
 
